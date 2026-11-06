@@ -9,7 +9,7 @@ Yürürlük tarihi: 6 Kasım 2026 · Sürüm: 1
 
 Bu şartlar, Emirhan Torun ("biz") tarafından sunulan CvOptimizer mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu şartları kabul etmiş olursun.
 
-Uygulama App Store üzerinden lisanslanır. Bu şartlar Apple'ın Standart Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi'ne (Standard EULA) ek olarak geçerlidir; çelişki hâlinde, Apple'ı ilgilendiren konularda Apple'ın sözleşmesi uygulanır.
+Uygulama App Store üzerinden lisanslanır. Bu şartlar Apple'ın Standart Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi'ne ([Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)) ek olarak geçerlidir; çelişki hâlinde, Apple'ı ilgilendiren konularda Apple'ın sözleşmesi uygulanır.
 
 ## 1. Hizmet
 

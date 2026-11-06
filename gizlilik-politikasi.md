@@ -67,7 +67,7 @@ Uygulama seni başka şirketlerin uygulama ve sitelerinde takip etmez, reklam ki
 
 - **Yapay zekâ onayı:** Profil'den istediğin zaman geri alabilirsin. Onay olmadan yapay zekâ özellikleri kapalı kalır, uygulamanın geri kalanı çalışır.
 - **Öneriler:** Hiçbir öneri onayın olmadan CV'ne yazılmaz.
-- **Hesap silme:** Profil → Hesabı sil. Hesabın, kullanım sayaçların, Pro ve kredi kayıtların hemen silinir. Hesabı silmek aboneliği iptal etmez: aboneliğini iOS Ayarlar → en üstteki Apple hesabın → Abonelikler bölümünden iptal et.
+- **Hesap silme:** Profil → Hesabı sil. Hesabın, kullanım sayaçların, Pro ve kredi kayıtların hemen silinir; RevenueCat'teki satın alma kaydın da silinir. Hesabı silmek aboneliği iptal etmez: aboneliğini iOS Ayarlar → en üstteki Apple hesabın → Abonelikler bölümünden iptal et.
 - **Cihazdaki veriler:** CV'lerini uygulama içinden ya da uygulamayı kaldırarak silebilirsin.
 - **KVKK hakların:** bilgi isteme, düzeltme, silme ve diğer hakların için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bak ya da cvoptimizer.app.support@gmail.com adresine yaz.
 

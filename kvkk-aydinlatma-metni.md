@@ -65,13 +65,13 @@ Veriler, Uygulama'yı kullanırken senin girdiğin bilgilerden ve yüklediğin d
 ## 7. Ne kadar süre saklıyoruz
 
 - **Hesap bilgileri:** hesabını silene kadar.
-- **Satın alma bilgileri:** hesabını silene kadar; vergi ve muhasebe için saklanması gereken kayıtları Apple tutar.
+- **Satın alma bilgileri:** hesabını silene kadar (RevenueCat'teki kayıt dahil); vergi ve muhasebe için saklanması gereken kayıtları Apple tutar.
 - **Kullanım sayaçları:** hesabını silene kadar; hesabını silersen hemen silinir.
 - **Yapay zekâya gönderilen metinler:** sunucumuzda saklanmaz. Google'daki süre bölüm 4'te.
 - **Teknik kayıtlar:** altyapı sağlayıcımızın kayıt sisteminde en fazla 1 gün.
 - **Cihazındaki veriler:** sen silene ya da Uygulama'yı kaldırana kadar; bunlara erişimimiz yok.
 
-Hesabını Uygulama içinden (Profil → Hesabı sil) istediğin zaman silebilirsin; hesap bilgilerin, kullanım sayaçların ve satın alma kayıtların hemen silinir. Hesabı silmek aboneliği iptal etmez; aboneliğini iOS Ayarlar → en üstteki Apple hesabın → Abonelikler bölümünden iptal etmelisin. Yapay zekâ onayını da Profil'den istediğin zaman geri alabilirsin.
+Hesabını Uygulama içinden (Profil → Hesabı sil) istediğin zaman silebilirsin; hesap bilgilerin, kullanım sayaçların ve satın alma kayıtların (RevenueCat'teki dahil) hemen silinir. Hesabı silmek aboneliği iptal etmez; aboneliğini iOS Ayarlar → en üstteki Apple hesabın → Abonelikler bölümünden iptal etmelisin. Yapay zekâ onayını da Profil'den istediğin zaman geri alabilirsin.
 
 ## 8. Hakların (KVKK m.11)
 
