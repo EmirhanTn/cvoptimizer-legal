@@ -5,7 +5,7 @@ title: "KVKK Aydınlatma Metni"
 
 # CvOptimizer — Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni
 
-Yürürlük tarihi: 6 Kasım 2026 · Sürüm: 1
+Yürürlük tarihi: 14 Kasım 2026 · Sürüm: 2
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ uyarınca, CvOptimizer mobil uygulamasını ("Uygulama") kullanırken kişisel verilerinin nasıl işlendiğini anlatır.
 
@@ -43,8 +43,9 @@ Aşağıdaki bölümler cihazından çıkan verileri anlatır.
 
 | Alıcı | Ne | Neden | Nerede |
 |---|---|---|---|
-| **Supabase** (Supabase Inc.) — sunucu altyapımız ve giriş kodu e-postaları | Hesap bilgileri, kullanım sayaçları, satın alma bilgileri, teknik kayıtlar; yapay zekâya giden metin sunucumuzdan **yalnız geçer**, kaydedilmez | Hesap, kullanım sınırları, yapay zekâ isteklerini iletmek | İrlanda (AB) |
+| **Supabase** (Supabase Inc.) — sunucu altyapımız | Hesap bilgileri, kullanım sayaçları, satın alma bilgileri, teknik kayıtlar; yapay zekâya giden metin sunucumuzdan **yalnız geçer**, kaydedilmez | Hesap, kullanım sınırları, yapay zekâ isteklerini iletmek | İrlanda (AB) |
 | **Google** (Google LLC, Gemini API) — yapay zekâ hizmeti | Bölüm 3'te sayılan yapay zekâ metinleri | Önerileri ve karşılaştırmayı üretmek | Google'ın tesisleri bulunan ülkeler (ABD dahil) |
+| **Google** (Google LLC, Gmail) — giriş kodu e-postaları | E-posta adresin ve tek kullanımlık giriş kodu | Giriş kodunu sana e-postayla göndermek | Google'ın tesisleri bulunan ülkeler (ABD dahil) |
 | **Apple** (Apple Inc. / Apple Distribution International) | Apple ile girişte kimliğin; satın almalarda ödeme işlemi | Giriş, ödeme | ABD / İrlanda |
 | **RevenueCat** (RevenueCat Inc.) — satın alma doğrulama | Hesap numaran (adın ve e-postan gitmez), satın alma kayıtları, cihaz ve uygulama bilgileri (iOS sürümü, uygulama sürümü, mağaza ülkesi gibi) | Satın almayı Apple'la doğrulamak, Pro'yu ve kredileri açmak | ABD |
 | Yetkili kamu kurumları | Kanunen istenen bilgiler | Hukuki yükümlülük | Türkiye |
@@ -68,6 +69,7 @@ Veriler, Uygulama'yı kullanırken senin girdiğin bilgilerden ve yüklediğin d
 - **Satın alma bilgileri:** hesabını silene kadar (RevenueCat'teki kayıt dahil); vergi ve muhasebe için saklanması gereken kayıtları Apple tutar.
 - **Kullanım sayaçları:** hesabını silene kadar; hesabını silersen hemen silinir.
 - **Yapay zekâya gönderilen metinler:** sunucumuzda saklanmaz. Google'daki süre bölüm 4'te.
+- **Giriş kodu e-postaları:** gönderilen e-postanın bir kopyası e-posta hesabımızda en fazla 30 gün kalır.
 - **Teknik kayıtlar:** altyapı sağlayıcımızın kayıt sisteminde en fazla 1 gün.
 - **Cihazındaki veriler:** sen silene ya da Uygulama'yı kaldırana kadar; bunlara erişimimiz yok.
 

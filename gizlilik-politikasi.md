@@ -5,7 +5,7 @@ title: "Gizlilik Politikası"
 
 # CvOptimizer — Gizlilik Politikası
 
-Yürürlük tarihi: 6 Kasım 2026 · Sürüm: 1
+Yürürlük tarihi: 14 Kasım 2026 · Sürüm: 2
 
 CvOptimizer ("Uygulama"), Emirhan Torun tarafından geliştirilen bir CV oluşturma ve iyileştirme uygulamasıdır. Bu politika hangi verileri neden kullandığımızı kısaca anlatır. Ayrıntılı yasal bilgi [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'nde.
 
@@ -54,8 +54,9 @@ Metin sunucumuzdan geçip Google'a gider; sunucumuzda kaydedilmez. Google, Gemin
 
 | Hizmet | Ne için |
 |---|---|
-| Supabase (İrlanda, AB) | Hesap, giriş kodu e-postaları, kullanım sınırları, Pro ve kredi kayıtları, yapay zekâ isteklerinin iletilmesi |
+| Supabase (İrlanda, AB) | Hesap, kullanım sınırları, Pro ve kredi kayıtları, yapay zekâ isteklerinin iletilmesi |
 | Google Gemini API | Yapay zekâ önerileri |
+| Google Gmail | Giriş kodu e-postalarını göndermek (e-posta adresin ve kod; e-postanın kopyası hesabımızda en fazla 30 gün kalır) |
 | Apple | Apple ile giriş, App Store ödemeleri |
 | RevenueCat (ABD) | Satın almaları doğrulamak (hesap numaranla; adın ve e-postan gitmez) |
 
