@@ -69,7 +69,7 @@ Uygulama seni başka şirketlerin uygulama ve sitelerinde takip etmez, reklam ki
 - **Öneriler:** Hiçbir öneri onayın olmadan CV'ne yazılmaz.
 - **Hesap silme:** Profil → Hesabı sil. Hesabın, kullanım sayaçların, Pro ve kredi kayıtların hemen silinir; RevenueCat'teki satın alma kaydın da silinir. Hesabı silmek aboneliği iptal etmez: aboneliğini iOS Ayarlar → en üstteki Apple hesabın → Abonelikler bölümünden iptal et.
 - **Cihazdaki veriler:** CV'lerini uygulama içinden ya da uygulamayı kaldırarak silebilirsin.
-- **KVKK hakların:** bilgi isteme, düzeltme, silme ve diğer hakların için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bak ya da cvoptimizer.app.support@gmail.com adresine yaz.
+- **KVKK hakların:** bilgi isteme, düzeltme, silme ve diğer hakların için [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'ne bak ya da cvoptimizer.support@gmail.com adresine yaz.
 
 ## Güvenlik
 
@@ -87,4 +87,4 @@ Bu politikayı değiştirirsek yeni sürümü burada yayınlar, önemli değişi
 
 ## İletişim
 
-Emirhan Torun · Pendik, İstanbul · cvoptimizer.app.support@gmail.com
+Emirhan Torun · Pendik, İstanbul · cvoptimizer.support@gmail.com

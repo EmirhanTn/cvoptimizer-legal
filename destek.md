@@ -5,7 +5,7 @@ title: "Destek"
 
 # CvOptimizer Destek
 
-Bir sorun mu var, ya da bir önerin mi? Bize yaz: **[cvoptimizer.app.support@gmail.com](mailto:cvoptimizer.app.support@gmail.com)**
+Bir sorun mu var, ya da bir önerin mi? Bize yaz: **[cvoptimizer.support@gmail.com](mailto:cvoptimizer.support@gmail.com)**
 
 Yazarken iPhone modelini, iOS sürümünü ve sorunun hangi ekranda olduğunu eklersen daha hızlı yardım edebiliriz. CV'nin tamamını ya da kimlik bilgilerini gönderme; gerekirse biz isteriz.
 
@@ -46,4 +46,4 @@ Profil → Hesabı sil. Hesabın ve sunucudaki kayıtların hemen silinir; telef
 
 ---
 
-**Support (English):** write to [cvoptimizer.app.support@gmail.com](mailto:cvoptimizer.app.support@gmail.com). To cancel a subscription: iOS Settings → your Apple Account → Subscriptions. Refunds are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+**Support (English):** write to [cvoptimizer.support@gmail.com](mailto:cvoptimizer.support@gmail.com). To cancel a subscription: iOS Settings → your Apple Account → Subscriptions. Refunds are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).

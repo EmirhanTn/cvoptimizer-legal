@@ -84,4 +84,4 @@ Bu şartlar Türkiye Cumhuriyeti hukukuna tabidir. Tüketici olarak, uyuşmazlı
 
 ## 11. İletişim
 
-Emirhan Torun · Pendik, İstanbul · cvoptimizer.app.support@gmail.com
+Emirhan Torun · Pendik, İstanbul · cvoptimizer.support@gmail.com

@@ -13,7 +13,7 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun ("KVKK") 10. ma
 
 Emirhan Torun
 Adres: Pendik, İstanbul
-E-posta: cvoptimizer.app.support@gmail.com
+E-posta: cvoptimizer.support@gmail.com
 
 ## 2. Önce bilmen gereken: CV'n cihazında kalır
 
@@ -88,4 +88,4 @@ Veri sorumlusuna başvurarak:
 
 haklarına sahipsin.
 
-Başvurunu cvoptimizer.app.support@gmail.com adresine, kayıtlı elektronik posta (KEP) ile ya da Pendik, İstanbul adresine yazılı olarak iletebilirsin. Başvurun, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'e uygun olarak en geç 30 gün içinde ücretsiz sonuçlandırılır. Başvurunun reddedilmesi, cevabı yetersiz bulman veya süresinde cevap verilmemesi hâlinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsin.
+Başvurunu cvoptimizer.support@gmail.com adresine, kayıtlı elektronik posta (KEP) ile ya da Pendik, İstanbul adresine yazılı olarak iletebilirsin. Başvurun, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'e uygun olarak en geç 30 gün içinde ücretsiz sonuçlandırılır. Başvurunun reddedilmesi, cevabı yetersiz bulman veya süresinde cevap verilmemesi hâlinde Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsin.
