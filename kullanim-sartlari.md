@@ -5,7 +5,7 @@ title: "Kullanım Şartları"
 
 # CvOptimizer — Kullanım Şartları
 
-Yürürlük tarihi: 6 Kasım 2026 · Sürüm: 1
+Yürürlük tarihi: 15 Kasım 2026 · Sürüm: 2
 
 Bu şartlar, Emirhan Torun ("biz") tarafından sunulan CvOptimizer mobil uygulamasının ("Uygulama") kullanımını düzenler. Uygulama'yı kullanarak bu şartları kabul etmiş olursun.
 
@@ -23,7 +23,7 @@ Uygulama CV oluşturmana, düzenlemene ve PDF olarak almana yardım eder. Ayrıc
 
 ## 2. Yaş ve hesap
 
-- Uygulama'yı kullanmak için en az 18 yaşında olmalısın.
+- Uygulama'yı kullanmak için en az 16 yaşında olmalısın. 18 yaşından küçüksen satın alma yapmadan önce anne, baba ya da vasinin iznini almalısın.
 - Hesabın sana aittir; giriş bilgilerini başkasıyla paylaşma.
 - Hesabını Uygulama içinden istediğin zaman silebilirsin (Profil → Hesabı sil). Hesabı silmek aboneliği iptal etmez; aboneliği App Store'dan ayrıca iptal etmelisin.
 

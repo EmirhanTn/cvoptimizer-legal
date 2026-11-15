@@ -5,7 +5,7 @@ title: "Gizlilik Politikası"
 
 # CvOptimizer — Gizlilik Politikası
 
-Yürürlük tarihi: 14 Kasım 2026 · Sürüm: 2
+Yürürlük tarihi: 15 Kasım 2026 · Sürüm: 3
 
 CvOptimizer ("Uygulama"), Emirhan Torun tarafından geliştirilen bir CV oluşturma ve iyileştirme uygulamasıdır. Bu politika hangi verileri neden kullandığımızı kısaca anlatır. Ayrıntılı yasal bilgi [KVKK Aydınlatma Metni](kvkk-aydinlatma-metni.html)'nde.
 
@@ -80,7 +80,7 @@ Uygulama seni başka şirketlerin uygulama ve sitelerinde takip etmez, reklam ki
 
 ## Çocuklar
 
-Uygulama 18 yaşından küçükler için tasarlanmamıştır.
+Uygulama 16 yaşından küçükler için tasarlanmamıştır.
 
 ## Değişiklikler
 
